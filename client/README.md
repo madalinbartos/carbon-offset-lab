@@ -1,4 +1,4 @@
-# Carbon Offset Lab
+# Carbon Offset Lab - Frontend app
 
 ## Description
 

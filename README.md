@@ -6,11 +6,11 @@ Offset Carbon Lab is a web application where anyone can look for and create carb
 
 ## Technologies used
 
-###Frontend
+### Frontend
 - React.js
 - TypeScript
 
-###Backend
+### Backend
 - Nest.js
 - TypeScript
 - TypeORM
