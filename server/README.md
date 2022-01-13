@@ -1,13 +1,5 @@
 # Carbon Offset Lab
 
-## Table of contents
-
-- [Description](#description)
-- [Technologies used](#technologiesused)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the app](#runningtheapp)
-
 ## Description
 
 This is the backend app for the Carbon Offset Lab project
